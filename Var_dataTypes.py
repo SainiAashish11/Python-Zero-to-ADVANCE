@@ -11,6 +11,7 @@ b = "Aashish"       # it is a "string" data type and 'b' is the object of class'
 print(b)
 print(type(b))
 
+
 c = True            # it is a "boolean" data type and 'c' is the object of class'bool'
 print(c)
 print(type(c))  
