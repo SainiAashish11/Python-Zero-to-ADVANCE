@@ -7,6 +7,7 @@ def Check_divisibility ( a, b ):
     else:
           print( " a is not divisible by b ")   
 
+
           
 Check_divisibility( 8,2)    # (alt + shift + down) used for copying a code line multiple times
 Check_divisibility( 7,2)
