@@ -1,6 +1,7 @@
 # parameters : variables or values passed in the function definition
 # arguments  : variables or values passed in the function call
 
+
 """ function arguments are of 4 types:
 # 1- Default arguments
 # 2- keyword arguments
