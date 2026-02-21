@@ -4,7 +4,6 @@
     2- decremented
 '''
 # incremented loop
-
 start = 0
 
 while(start <= 5):
@@ -14,7 +13,6 @@ while(start <= 5):
 print("\n")
 
 # decremented loop
-
 end = 5
 
 while(end >= 0):
@@ -22,7 +20,6 @@ while(end >= 0):
     end = end - 1
 
 # while loop with '!=' operator
-
 bool = False
 
 while(bool != True):  # '!= True' means 'bool == False' so it will come inside 'while loop' first to check the condition and it got 'bool' = False
