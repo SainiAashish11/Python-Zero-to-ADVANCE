@@ -57,7 +57,7 @@ for i in sett1:
    print(i)
 
 
-sett2 = { 1 , 2 , 3 , frozenset({4 , 5})}   # 'set inside set' is not iterable due to hashing problem, hence converted to 'forzenset' for consistent hashing
+sett2 = { 1 , 2 , 3 , frozenset({4 , 5})}   # 'set inside set' is not iterable due to hashing problem, hence converted to 'frozenset' for consistent hashing
 for i in sett2:
    print(i)
 
