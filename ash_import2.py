@@ -7,7 +7,6 @@ print(__name__)               # it results in '__main__' string if this script i
 if __name__ == "__main__":
     Welcome()
 
-
 ''' __name__ is a built-in variable which tells the name of the script if 'import' happened
     otherwise prints the string '__main__' if executed from the same script, like her '__name__' and '__main__' are present in same script
 '''
